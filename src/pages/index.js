@@ -30,4 +30,3 @@ export async function getServerSideProps(context){
   }}
 }
 
-// https://fakestoreapi.com/products
